@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "name": "Clementine Bauc021600",
+      "username": "Samanth0026554886612",
+      "age": 25,
+      "phone": "1-463-123-4447",
+      "email": "Nathan@yesenia.net",
+      "website": "ramiro.info",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "age": "26",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "name": "Chelsey Dietrich00",
+      "username": "Kamren01",
+      "age": 27,
+      "phone": "(254)954-12890",
+      "email": "Lucio_Hettinger@annie.ca",
+      "website": "demarco.info",
+      "id": 3
+    },
+    {
+      "name": "Mrs. Dennis Schulist11",
+      "username": "Leopoldo_Corkery",
+      "age": 25,
+      "phone": "1-477-935-8478 x6430",
+      "email": "Karley_Dach@jasper.info",
+      "website": "ola.org",
+      "id": 4
+    },
+    {
+      "name": "Kurtis Weissnat11",
+      "username": "Elwyn.Skiles1",
+      "age": 31,
+      "phone": "210.067.6132",
+      "email": "Telly.Hoeger@billy.biz",
+      "website": "elvis.io",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "age": "28",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "age": "30",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "name": "rajesh",
+      "username": "gole8701",
+      "age": 27,
+      "phone": "7987065126",
+      "email": "gole.rajesh295@gmail.com",
+      "website": "www.gole.com",
+      "introduction": "hi ",
+      "id": 9
+    },
+    {
+      "name": "rajesh",
+      "username": "Kamren",
+      "age": 20,
+      "phone": "7987065126",
+      "email": "akshaygarg2010@gmail.com",
+      "website": "demarco.info",
+      "id": 10
+    }
+  ]
+}
